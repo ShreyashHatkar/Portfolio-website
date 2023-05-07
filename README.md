@@ -21,7 +21,7 @@ This website is deployed and hosted on Netlify. You can visit it at [Website URL
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.jpg)
+![Screenshot 1](/screenshots/screenshot1.jpg.png)
 
 ## Getting Started
 
